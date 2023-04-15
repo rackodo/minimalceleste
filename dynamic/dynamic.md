@@ -1,0 +1,1 @@
+These wallpapers are light mode/dark mode dynamic wallpapers for macOS, that change depending on whether you have dark mode enabled.
